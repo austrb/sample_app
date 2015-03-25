@@ -10,4 +10,7 @@ class StaticPagesController < ApplicationController
   def about
   @title = 'sss'
   end
+  
+  def contact
+  end
 end
